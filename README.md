@@ -2,9 +2,17 @@
 
 **Aquare Space** es un videojuego educativo que combina conceptos de computación científica, específicamente álgebra matricial, con una experiencia gamificada para acercar estos conceptos abstractos al usuario final. Además, el juego busca generar conciencia sobre el cuidado del medio ambiente, resaltando el papel fundamental del agua y los peligros de la contaminación por basura.
 
+<p align="center">
+  <img src="ASETS\FONDOS\LOGO GAME.png" alt="Aquare Space Logo" width="400"/>
+</p>
+
 ## Objetivo
 
 El objetivo principal del juego es eliminar la mayor cantidad de basuras posibles antes de que lleguen al agua, representando así la importancia de mantener nuestros recursos hídricos limpios. El jugador debe moverse y disparar para evitar que los residuos contaminen el agua, mientras aprende y aplica conceptos relacionados con el álgebra matricial de manera lúdica.
+
+<p align="center">
+  <img src="ASETS\FONDOS\PANTALLADEJUEGO.png" alt="Aquare Space Logo" width="400"/>
+</p>
 
 ## Características
 
